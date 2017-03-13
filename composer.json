@@ -1,0 +1,19 @@
+{
+  "name": "ze00ro/mina",
+  "description": "wechat mina sdk for php",
+  "type": "library",
+  "authors": [
+    {
+      "name": "ze00ro",
+      "email": "721908811@qq.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "autoload": {
+    "psr-0": {
+      "Test": "src/"
+    }
+  }
+}
